@@ -247,3 +247,8 @@ http://www.gsbeclub.org/startup-resources
 ###Startup Resources
 GSB Entrepreneurship Club
 http://www.gsbeclub.org/startup-resources
+
+###Stanford Labs
+Aero Fluid Mechanics Laboratory
+Aerospace Robotics Laboratory
+Aircraft Aerodynamics and Design Group
